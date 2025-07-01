@@ -1,1 +1,1 @@
-# Interface_Aplicativo_Drone
+Projeto de Design de Interface e Usabilidade onde construímos o design de um aplicativo que controla e monitora um Drone Subaquático. O Design foi feito com base em heurísticas voltadas para a facilidade de compreensão do usuário assim como a simplificação dos elementos gráficos.
